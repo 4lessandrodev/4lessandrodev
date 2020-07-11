@@ -27,13 +27,13 @@ Tenho certeza que você encontrará algumas tecnologias[coding] interessantes po
 **Clone** alguns projetos aí, se ficar com alguma dúvida pode me chamar, terei o prazer de ajudar 💬
 
 ## ⚡ Sobre mim 
-Tenho ~~31 anos~~ de idade, moro em São Paulo, sou bacharel em Administração e estou cursanso Análise e Desenvolvimento de Sistemas. Estou em transição de carreira, trabalhei por 11 anos em uma ótima empresa na área de logística e em 2018 eu e alguns amigos fundamos uma startup, a ideia não deu muito certo, mas aprendi muito, e essa experiência despertou a paixão por programação dentro demim, e agora estou me desenvolvendo e buscando uma oportunidade no mercado de trabalho na área de desenvolvimento de web.
+Tenho ~~31 anos~~ de idade, moro em São Paulo, sou bacharel em Administração e estou cursanso Análise e Desenvolvimento de Sistemas. Estou em transição de carreira, trabalhei por 11 anos em uma ótima empresa na área de logística e em 2018 eu e alguns amigos fundamos uma startup, a ideia não deu muito certo, mas aprendi muito, e essa experiência despertou a paixão por programação dentro de mim, e agora estou me desenvolvendo e buscando uma oportunidade no mercado de trabalho na área de desenvolvimento web.
 
 #### 🌱 Confira algumas de minhas habilidades 
 
 [![](http://alessandrodev.com:21141/uploads/skills.jpg)](http://alessandrodev.com/portfolio)
 
-Eu sou uma pessoas apaixonada por tecnologia e inovação. Amo participar de comunidades (hackathons, meetups, eventos etc). também gosto de conhecer pessoas novas. Sou bom em trabalhar em equipe, sempre incentivo e ajudo quem tem menos conhecimento ou quem precisa de ajuda. Acredito que a colaboração e comunicação são pilares fundamentais para o processo de desenvolvimento.
+Eu sou uma pessoas apaixonada por tecnologia e inovação. Amo participar de comunidades (hackathons, meetups, conferências etc). também gosto de conhecer pessoas novas. Sou bom em trabalhar em equipe, sempre incentivo e ajudo quem tem menos conhecimento ou quem precisa de ajuda. Acredito que a colaboração e a comunicação são pilares fundamentais para o processo de desenvolvimento.
 Agora que me conhece um pouco melhor o que acha de nos conectarmos no [ linkedin ]( https://www.linkedin.com/in/alessandro-l-menezes-57906b71/ )?
 
 
