@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-Tenho certeza que você vai encontrar algumas coisas interessantes por aqui que lhe agregarão novos conhecimentos.
+Tenho certeza que você encontrará algumas tecnologias[coding] interessantes por aqui que lhe agregarão novos conhecimentos.
 **Clone** alguns projetos aí, se ficar com alguma dúvida pode me chamar, terei o prazer de ajudar 💬
 
 ## ⚡ Sobre mim 
@@ -33,15 +33,15 @@ Tenho ~~31 anos~~ de idade, moro em São Paulo, sou bacharel em Administração 
 
 [![](http://alessandrodev.com:21141/uploads/skills.jpg)](http://alessandrodev.com/portfolio)
 
-Eu sou uma pessoas apaixonada por tecnologia e inovação. Amo participar de comunidades e conhecer pessoas novas. Sou bom em trabalho em equipe.
-O que acha de nos conectarmos no [ linkedin ]( https://www.linkedin.com/in/alessandro-l-menezes-57906b71/ )
+Eu sou uma pessoas apaixonada por tecnologia e inovação. Amo participar de comunidades (hackathons, meetups, eventos etc). também gosto de conhecer pessoas novas. Sou bom em trabalhar em equipe, sempre incentivo e ajudo quem tem menos conhecimento ou quem precisa de ajuda. Acredito que a colaboração e comunicação são pilares fundamentais para o processo de desenvolvimento.
+Agora que me conhece um pouco melhor o que acha de nos conectarmos no [ linkedin ]( https://www.linkedin.com/in/alessandro-l-menezes-57906b71/ )?
 
 
 Se não encontrar algo interessante por aqui, talvez encontre inspiração em meu portfólio de projetos acesse [clicando aqui](http://alessandrodev.com/portfolio "clicando aqui")
 
 ## 🔭 Meu objetivo 
 ###### Curto prazo ✨
->Ser um desenvolvedor junior em uma empresa que valoriza os colaboradores, incentivam a criatividade e a inovação.
+>Ser um desenvolvedor junior em uma empresa que valoriza os colaboradores, que incentivam a criatividade e a inovação.
 
 
 ------------
