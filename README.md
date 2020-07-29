@@ -21,14 +21,15 @@ Here are some ideas to get you started:
 
 ------------
 
-[![Blog Badge](https://img.shields.io/badge/Blog-alessandrodev.com-black)](http://alessandrodev.com/portfolio)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCjNEmyHytF2-o0IufEDGz-A?view_as=subscriber)](https://www.youtube.com/channel/UCjNEmyHytF2-o0IufEDGz-A?view_as=subscriber)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-l-menezes-57906b71/)](https://www.linkedin.com/in/alessandro-l-menezes-57906b71/)
-
 Tenho certeza que você encontrará algumas tecnologias[coding] interessantes por aqui que lhe agregarão novos conhecimentos.
 **Clone** alguns projetos e teste, se ficar com alguma dúvida pode me chamar, terei o prazer de ajudar 💬
 
 ## ⚡ Sobre mim 
+
+[![Blog Badge](https://img.shields.io/badge/Blog-alessandrodev.com-black)](http://alessandrodev.com/portfolio)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCjNEmyHytF2-o0IufEDGz-A?view_as=subscriber)](https://www.youtube.com/channel/UCjNEmyHytF2-o0IufEDGz-A?view_as=subscriber)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-l-menezes-57906b71/)](https://www.linkedin.com/in/alessandro-l-menezes-57906b71/)
+
 Tenho ~~31 anos~~ de idade, moro em São Paulo, sou bacharel em Administração e estou cursanso Análise e Desenvolvimento de Sistemas. Estou em transição de carreira, trabalhei por 11 anos em uma ótima empresa na área de logística e em 2018 eu e alguns amigos fundamos uma startup, a ideia não deu muito certo, mas aprendi muito, e essa experiência despertou a paixão por programação dentro de mim, e agora estou me desenvolvendo e buscando uma oportunidade no mercado de trabalho na área de desenvolvimento web.
 
 #### 🌱 Confira algumas de minhas habilidades 
