@@ -36,7 +36,7 @@ Tenho ~~31 anos~~ de idade, moro em São Paulo, sou bacharel em Administração 
 
 [![](http://alessandrodev.com:21141/uploads/skills.jpg)](http://alessandrodev.com/portfolio)
 
-Eu sou uma pessoa apaixonada por tecnologia e inovação. Amo participar de comunidades (hackathons, meetups, conferências etc). também gosto de conhecer novas pessoas. Sou empático nos trabalhos desenvolvidos em equipe, sempre incentivo a troca de experiência na equipe porque credito que a colaboração e a comunicação são pilares fundamentais para o processo de desenvolvimento de pessoas e tecnologia.
+Eu sou uma pessoa apaixonada por tecnologia e inovação. Amo participar de comunidades (hackathons, meetups, conferências etc). também gosto de conhecer novas pessoas. Sou empático nos trabalhos desenvolvidos em equipe, sempre incentivo a troca de experiência na equipe porque acredito que a colaboração e a comunicação são pilares fundamentais para o processo de desenvolvimento de pessoas e tecnologia.
 Agora que me conhece um pouco melhor o que acha de nos conectarmos no [ linkedin ]( https://www.linkedin.com/in/alessandro-l-menezes-57906b71/ )?
 
 
