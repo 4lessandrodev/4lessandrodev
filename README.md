@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings.gif">
+<img src="https://wallpaperstock.net/wallpapers/thumbs1/51526hd.png">
 
 ## Olá, seja bem vindo(a) ao meu github
 
