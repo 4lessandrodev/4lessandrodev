@@ -42,23 +42,19 @@ Agora que me conhece um pouco melhor o que acha de nos conectarmos no [ linkedin
 
 Se não encontrar algo interessante por aqui, talvez encontre inspiração em meu portfólio de projetos acesse [clicando aqui](http://alessandrodev.com/portfolio "clicando aqui")
 
-## 🔭 Meu objetivo 
-###### Curto prazo ✨
->Ser um desenvolvedor junior em uma empresa que valoriza os colaboradores, que incentivam a criatividade e a inovação.
+---
 
-🚀 Meta alcançada!!!
+| [![4lessandrodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lessandrodev&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/4lessandrodev?tab=repositories) | [![4lessandrodev's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4lessandrodev&layout=compact&hide_border=true&theme=dark)](https://github.com/4lessandrodev?tab=repositories) |
+|:-:|:-:|
 
-------------
+<p align="center">
+	<img alt="4lessandrodev's followers" src="https://img.shields.io/github/followers/4lessandrodev?color=black" />
+	<img alt="4lessandrodev's stars" src="https://img.shields.io/github/stars/4lessandrodev?color=black" />
+</p>
 
+---
 
-
-###### Longo prazo ✨
-> Ser um desenvolvedor web de referência internacional com domínio em typescript, c# e cloud computing até o ano de 2025.
-
-
-
-------------
-
-
-Att, Alessandro Dev.
+<h3 align="center">
+	I ❤️ Code!
+</h3>
 
