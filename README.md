@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://alessandrodev.s3.amazonaws.com/42.png">
+<img src="https://i.ibb.co/1Ttbqgd/42.png">
 
 ## Olá, seja bem vindo(a) ao meu github
 
